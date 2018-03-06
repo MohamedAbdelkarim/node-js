@@ -1,0 +1,8 @@
+node_modules/
+server.log
+.vs/
+.vscode/
+.eslintrc.json
+.jslintrc
+go.js
+package-lock.json
